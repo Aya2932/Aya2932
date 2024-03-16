@@ -18,8 +18,6 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/aya-ahmed-5a13882a3/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="ayaahmed29392@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
+<a href="mailto:ayaahmed29392@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
 
